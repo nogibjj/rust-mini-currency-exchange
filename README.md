@@ -1,4 +1,4 @@
-# rust-new-project-template
+# Rust Mini Week 3 - Moon Shape
 This is a repo for calculating the moon shape for given dates in RUST CLI.
 
 ## References
