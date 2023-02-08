@@ -1,5 +1,5 @@
 # rust-new-project-template
-A good starting point for a new Rust project
+This is a repo for calculating the moon shape for given dates in RUST CLI.
 
 ## References
 
